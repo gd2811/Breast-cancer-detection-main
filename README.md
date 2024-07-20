@@ -61,11 +61,4 @@ pip install -r requirements.txt
 - Open the Jupyter notebooks in the `notebooks/` directory to explore the data, preprocess it, and develop machine learning models.
 - Review the results in the `results/` directory to understand the performance of the models and insights gained from the analysis.
 
-## Contributing:
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss improvements or report bugs.
-
-## License:
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
